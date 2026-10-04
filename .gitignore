@@ -1,0 +1,8 @@
+# Publish source/documentation only; keep device captures and local backups private.
+/*
+!/.gitignore
+!/README.md
+!/set-h1-compatibility.ps1
+!/tests/
+/tests/*
+!/tests/test-compatibility.ps1
